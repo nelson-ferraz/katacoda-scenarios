@@ -1,3 +1,16 @@
-### Step 1
+Let's start our adventure with the following lines:
 
-This is the first step.
+```perl
+use strict;
+use warnings;
+
+use feature 'say';
+
+use Data::Dumper;
+```
+
+Copy these lines to a file called `advent.pl`, and execute it with:
+
+```bash
+perl advent.pl
+```
