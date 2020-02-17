@@ -28,8 +28,8 @@
   "assets": {
     "client": [
       {
-        "file": "*",
-        "target": "~"
+        "file": "advent/*",
+        "target": "~/advent/"
       }
     ]
   },
