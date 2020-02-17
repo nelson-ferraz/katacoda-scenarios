@@ -25,6 +25,14 @@
       "text": "finish.md"
     }
   },
+  "assets": {
+    "client": [
+      {
+        "file": "advent/*",
+        "target": "~/advent/"
+      }
+    ]
+  },
   "environment": {
     "uilayout": "editor-terminal"
   },
